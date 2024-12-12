@@ -3,7 +3,7 @@
 A fun and simple frontend webpage built using HTML, CSS, and JavaScript that fetches a random joke from an API to bring a smile to your face! This project is perfect for anyone who loves a good laugh or wants to explore how APIs work. 😄
 
 <h3>Little Glimpse 👀</h3>
-![UI](Screenshot 2024-08-05 174647.png)
+ https://trytolaugh.netlify.app
 
 <h3>Features ✨</h3>
 - **User-Friendly Interface**: Simple and clean design to get you to the jokes fast!  
